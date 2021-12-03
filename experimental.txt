@@ -1,0 +1,4 @@
+.gitignore
+experimental.txt
+for the best teacher who give me zachet.txt
+log.log
